@@ -1,4 +1,4 @@
 # Table of contents
 
-* [July](README.md)
-  * [Untitled](july/untitled.md)
+* [August](README.md)
+  * [Untitled](august/untitled.md)
