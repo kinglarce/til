@@ -14,3 +14,10 @@ Five V's
 
 Data Engineer lays the ground to Data Scientist to work on.
 
+| Data Engineer          | Data Scientist           |
+| ---------------------- | ------------------------ |
+| Ingest and store data  | Exploit data             |
+| Setup databases        | Access databases         |
+| Build data pipelines   | Use pipeline outputs     |
+| Strong software skills | Strong analytical skills |
+
