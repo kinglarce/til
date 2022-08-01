@@ -34,3 +34,8 @@ Data Pipelines
 | Combining      | Time it takes data to flow |
 | Validating     |                            |
 | Loading        |                            |
+
+* Move data from one system to another
+* May follow ETL/ELT
+* Data may NOT be transformed and routed directly to data visualization or Safeforce
+
