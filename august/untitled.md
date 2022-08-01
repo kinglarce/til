@@ -27,13 +27,13 @@ Data Engineering
 
 Data Pipelines
 
-| Automate       | Reduce                     |
-| -------------- | -------------------------- |
-| Extracting     | Human intervention         |
-| Transformation | Errors                     |
-| Combining      | Time it takes data to flow |
-| Validating     |                            |
-| Loading        |                            |
+| Automate     | Reduce                     |
+| ------------ | -------------------------- |
+| Extracting   | Human intervention         |
+| Transforming | Errors                     |
+| Combining    | Time it takes data to flow |
+| Validating   |                            |
+| Loading      |                            |
 
 * Move data from one system to another
 * May follow ETL/ELT
