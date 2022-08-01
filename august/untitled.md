@@ -1,5 +1,5 @@
 ---
-description: Wednesday, July 27, 2022
+description: Monday, August 1, 2022
 ---
 
 # Data Engineering
@@ -21,3 +21,16 @@ Data Engineer lays the ground to Data Scientist to work on.
 | Build data pipelines   | Use pipeline outputs     |
 | Strong software skills | Strong analytical skills |
 
+Data Engineering
+
+* Ingest,  Process, Store, Need pipelines, Automate flow from one station to next, Provide up-to-date, accurate, relevant data
+
+Data Pipelines
+
+| Automate       | Reduce                     |
+| -------------- | -------------------------- |
+| Extracting     | Human intervention         |
+| Transformation | Errors                     |
+| Combining      | Time it takes data to flow |
+| Validating     |                            |
+| Loading        |                            |
