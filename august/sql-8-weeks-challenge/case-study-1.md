@@ -1,7 +1,8 @@
 # Case Study 1
 
-[https://8weeksqlchallenge.com/case-study-1/](https://8weeksqlchallenge.com/case-study-1/)\
+{% embed url="https://8weeksqlchallenge.com/case-study-1/" %}
 
+{% embed url="https://dbdiagram.io/d/608d07e4b29a09603d12edbd/?utm_medium=bottom_open&utm_source=dbdiagram_embed" %}
 
 Each of the following case study questions can be answered using a single SQL statement:
 
