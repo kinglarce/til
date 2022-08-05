@@ -8,15 +8,36 @@ Each of the following case study questions can be answered using a single SQL st
 
 What is the total amount each customer spent at the restaurant?
 
-
+```sql
+SELECT 
+  sales.customer_id, 
+  SUM(price) 
+FROM 
+  dannys_diner.sales as sales 
+  JOIN dannys_diner.menu as menu ON menu.product_id = sales.product_id 
+GROUP BY 
+  sales.customer_id;
+```
 
 How many days has each customer visited the restaurant?
 
-
+```sql
+SELECT 
+  sales.customer_id, 
+  COUNT(
+    DISTINCT(sales.order_date)
+  ) as visit_count
+FROM 
+  dannys_diner.sales as sales 
+GROUP BY 
+  sales.customer_id;
+```
 
 What was the first item from the menu purchased by each customer?
 
-
+```sql
+// Some code
+```
 
 What is the most purchased item on the menu and how many times was it purchased by all customers?
 
