@@ -39,3 +39,26 @@ AWS Bracket - Creating quanting computing
 
 
 
+Benefits of Cloud
+
+* Agility
+* Pay as you go pricing
+* Economy of scale
+* Global reach
+* Security
+* Reliabilty
+* High Availability
+* Scalability
+* Elasticity
+
+
+
+6 Advantages of Cloud
+
+* Trade capital expense - pay on demand
+* Benefit from massive economies scale - sharing cost with other customers
+* Stop guessing capacity - scale up or down
+* Increase speed and agility - launch resources within a few clicks
+* Stop spending money on running and maintaining data centers - focus on your own customers
+* Go global in minutes - deploy app in multiple regions around the world with few clicks
+
