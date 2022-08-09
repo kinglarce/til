@@ -23,6 +23,19 @@ Common Cloud Services
 * Database\
 
 
-
-
 Hypervisor is the software layer that let you run VM's
+
+Container - Normally runs in Docker
+
+Function - VM's running managed containers known as Serverless Computer. Cold Start is a side-effect of this setup.&#x20;
+
+
+
+Burning Platform - when company abandons old tech and move to new one
+
+
+
+AWS Bracket - Creating quanting computing
+
+
+

@@ -6,4 +6,4 @@
   * [SQL - 8 Weeks Challenge](august/sql-8-weeks-challenge/README.md)
     * [Case Study 1](august/sql-8-weeks-challenge/case-study-1.md)
   * [AWS](august/aws.md)
-  * [Practical System Problems](august/practical-system-problems.md)
+  * [Distributed System: Real System Problems](august/distributed-system-real-system-problems.md)
