@@ -62,3 +62,13 @@ Benefits of Cloud
 * Stop spending money on running and maintaining data centers - focus on your own customers
 * Go global in minutes - deploy app in multiple regions around the world with few clicks
 
+
+
+Availability Zones\
+Normally 2-3 which is isolated from each other but close enough to provide low latency(<10ms)
+
+
+
+Common practice to run workloads in at least 3 AZs to ensure services remain available in case one or two data centers fail.
+
+AZs are within 100km of each other

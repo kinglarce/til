@@ -1,2 +1,2 @@
-# Distributed System: Real System Problems
+# Practical System Problems
 
