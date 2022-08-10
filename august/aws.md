@@ -72,3 +72,17 @@ Normally 2-3 which is isolated from each other but close enough to provide low l
 Common practice to run workloads in at least 3 AZs to ensure services remain available in case one or two data centers fail.
 
 AZs are within 100km of each other
+
+
+
+Fault domain - section of network that vulnerable to damage. Purpose is that if failure occurs it will not cascade outside that domain, limiting the damage possibility.
+
+
+
+Edge location - can act as on and off ramps to AWS global network
+
+CloudFront - use edge location to provide edge storage and computer near the user
+
+AWS Global accelerator & S3 transfer acceleration - to quickly reach aws resources in other regions traversing AWS  global network.
+
+VPC endpoint - ensuring your resources stay within the aws network and do not traverse over the public internet.
