@@ -2,7 +2,7 @@
 description: Wednesday, August 11, 2022
 ---
 
-# What is OVER() Clause
+# Usage of OVER() Clause
 
 For simplistic terms, if you want to aggregate multiple records such as calculating average or sum for each row, you can use `GROUP BY` , but if you don't want to only aggregate the subset data, you can use the `OVER` clause with `PARTITION BY` which will create a subset group of data.
 
@@ -61,6 +61,7 @@ and I'm expecting to get&#x20;
 | B            | curry         | 2021-01-01  |
 | C            | ramen         | 2021-01-01  |
 
+{% code title="SQL" %}
 ```sql
 WITH ranked AS (
   SELECT 
@@ -89,6 +90,7 @@ GROUP BY
   customer_id, 
   product_name
 ```
+{% endcode %}
 
 * Created a temp table `ranked` and use **Windows function** with **DENSE\_RANK** to create a new column `rank` which will have the ranking of each sales based on `order_date` and `product_id` .&#x20;
 * Instead of **ROW\_NUMBER** or **RANK**, use **DENSE\_RANK** as `order_date` is not time-stamped hence, there is no sequence as to which item is ordered first if 2 or more items are ordered on the same day.
