@@ -1,5 +1,5 @@
 # Table of contents
 
-* [August](README.md)
-  * [Usage of OVER() Clause](<august/page-1 (1).md>)
-  * [Page 1](august/page-1.md)
+* [January](README.md)
+  * [Usage of OVER() Clause](january/usage-of-over-clause.md)
+  * [January 3, 2023](january/january-3-2023.md)
