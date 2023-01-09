@@ -8,3 +8,4 @@
   * [January 6, 2023](january/january-6-2023.md)
   * [January 7, 2023](january/january-7-2023.md)
   * [January 8, 2023](january/january-8-2023.md)
+  * [January 9, 2023](january/january-9-2023.md)
