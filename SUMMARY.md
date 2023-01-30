@@ -28,3 +28,4 @@
   * [January 27, 2023](january/january-27-2023.md)
   * [January 28, 2023](january/january-28-2023.md)
   * [January 29, 2023](january/january-29-2023.md)
+  * [January 30, 2023](january/january-30-2023.md)
